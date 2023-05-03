@@ -1,11 +1,7 @@
 <h1><strong>Seja bem vindo!</strong></h1>
 
 <h2>Me chamo João e sou um desenvolvedor Front-end :D</h3>
-<div align="center">
-  <a href="https://github.com/joaolucasMota">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolucasMota&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasMota&layout=compact&langs_count=7&theme=default"/>
-</div>
+
   <h2>Tecnologias</h2>
   
 <div style="display: flex","margin: 0" ><br>
