@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>Me chamo João e sou um desenvolvedor Front-end :D</h2>
+    <h2>Me chamo João e sou um desenvolvedor Full Stack :D</h2>
     
 </div>
     
